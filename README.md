@@ -30,7 +30,7 @@ The project contains an Android based money tracking application with features s
 ## Development Environment
 The app is written entirely in Kotlin and uses the Gradle build system.
 
-To build the app, use the `gradlew build` command or use "Import Project" inAndroid Studio.
+To build the app, use the `gradle build` command or use "Import Project" inAndroid Studio.
 
 ## Database
 This projects uses [Cloud Firestore](https://firebase.google.com/docs/firestore/) for the database. 
