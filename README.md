@@ -1,5 +1,5 @@
 # Money App
-The project contains an Android money tracking application with features such as, Add Transaction and View Transaction History.
+The project contains an Android based money tracking application with features such as, Add Transaction and View Transaction History.
 
 ## Features
 ### Home Page
