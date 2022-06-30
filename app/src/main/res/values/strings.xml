@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MoneyApp</string>
+
+    <string-array name="category">
+        <item>Select category</item>
+        <item>Food &amp; Beverage</item>
+        <item>Bills &amp; Utilities</item>
+        <item>Transporation</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Health</item>
+        <item>Others...</item>
+    </string-array>
+
+    <string-array name="transactionType">
+        <item>Select type</item>
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+
+    <string-array name="categoryFilter">
+        <item>All categories</item>
+    </string-array>
+
+    <string-array name="categoryFilterIncome">
+        <item>All categories</item>
+        <item>Award</item>
+        <item>Interest Money</item>
+        <item>Salary</item>
+        <item>Gifts</item>
+        <item>Selling</item>
+        <item>Monthly</item>
+        <item>Debts</item>
+        <item>Chinese New Year</item>
+        <item>Other Income</item>
+    </string-array>
+
+    <string-array name="categoryFilterExpense">
+        <item>All categories</item>
+        <item>Food &amp; Beverage</item>
+        <item>Bills &amp; Utilities</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Friends &amp; Lover</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Health &amp; Fitness</item>
+        <item>Gifts &amp; Donations</item>
+        <item>Family</item>
+        <item>Education</item>
+        <item>Investment</item>
+        <item>Business</item>
+        <item>Insurances</item>
+        <item>Fees &amp; Charges</item>
+        <item>Withdrawal</item>
+        <item>Other Expenses</item>
+    </string-array>
+
+    <string-array name="transactionTypeFilter">
+        <item>All types</item>
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+</resources>
